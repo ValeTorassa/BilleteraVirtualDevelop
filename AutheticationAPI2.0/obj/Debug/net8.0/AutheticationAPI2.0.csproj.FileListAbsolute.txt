@@ -1,0 +1,432 @@
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\appsettings.json
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.exe
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.deps.json
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.runtimeconfig.json
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.pdb
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.AssemblyInfoInputs.cache
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.AssemblyInfo.cs
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.AutheticationAPI2.0.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.build.AutheticationAPI2.0.props
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AutheticationAPI2.0.props
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AutheticationAPI2.0.props
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\scopedcss\bundle\AutheticationAPI2.0.styles.css
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.csproj.CopyComplete
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\refint\AutheticationAPI2.0.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.pdb
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.genruntimeconfig.cache
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\ref\AutheticationAPI2.0.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Semana 7\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.csproj.AssemblyReference.cache
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.AssemblyInfoInputs.cache
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.AssemblyInfo.cs
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.csproj.CoreCompileInputs.cache
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\refint\AutheticationAPI2.0.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.pdb
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\appsettings.json
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.exe
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.deps.json
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.runtimeconfig.json
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.pdb
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Humanizer.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.AutheticationAPI2.0.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.build.AutheticationAPI2.0.props
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AutheticationAPI2.0.props
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AutheticationAPI2.0.props
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\scopedcss\bundle\AutheticationAPI2.0.styles.css
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.csproj.CopyComplete
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.genruntimeconfig.cache
+C:\Users\valen\Downloads\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\ref\AutheticationAPI2.0.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\appsettings.json
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.exe
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.deps.json
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.runtimeconfig.json
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\AutheticationAPI2.0.pdb
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Humanizer.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.csproj.AssemblyReference.cache
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.AssemblyInfoInputs.cache
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.AssemblyInfo.cs
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.csproj.CoreCompileInputs.cache
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.AutheticationAPI2.0.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.build.AutheticationAPI2.0.props
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AutheticationAPI2.0.props
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AutheticationAPI2.0.props
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\scopedcss\bundle\AutheticationAPI2.0.styles.css
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.csproj.CopyComplete
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\refint\AutheticationAPI2.0.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.pdb
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.genruntimeconfig.cache
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\ref\AutheticationAPI2.0.dll
