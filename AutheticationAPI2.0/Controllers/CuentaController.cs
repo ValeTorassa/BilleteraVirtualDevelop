@@ -24,7 +24,7 @@ namespace AutheticationAPI2._0.Controllers
         {
             var response = await _cuentaService.CreateCuentaAsync(userId);
 
-            if (response)
+            if (response.IsSuccess)
                 return Ok(response);
 
             return BadRequest(new { message = response.Message });
@@ -35,7 +35,7 @@ namespace AutheticationAPI2._0.Controllers
         {
             var response = await _cuentaService.UpdateCuentaAsync(cuenta);
 
-            if (response)
+            if (response.IsSuccess)
                 return Ok(response);
 
             return BadRequest(new { message = response.Message });
@@ -46,7 +46,7 @@ namespace AutheticationAPI2._0.Controllers
         {
             var response = await _cuentaService.DeleteCuentaAsync(userId);
 
-            if (response)
+            if (response.IsSuccess)
                 return Ok(response);
 
             return BadRequest(new { message = response.Message });
@@ -57,10 +57,10 @@ namespace AutheticationAPI2._0.Controllers
         {
             var response = await _cuentaService.GetCuentaByNumeroCuentaAsync(numeroCuenta);
 
-            if (response)
+            if (response!=null)
                 return Ok(response);
 
-            return BadRequest(new { message = response.Message });
+            return BadRequest(new { message = "No se encontró la cuenta." });
         }
 
         [HttpPost("obtenerCuentas")]
@@ -68,10 +68,11 @@ namespace AutheticationAPI2._0.Controllers
         {
             var response = await _cuentaService.GetCuentaByUserIdAsync(userId);
 
-            if (response)
+            if (response!=null)
                 return Ok(response);
 
-            return BadRequest(new { message = response.Message });
+            return BadRequest(new { message = "No se encontró la cuenta." });
+
         }
     }
 }

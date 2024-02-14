@@ -430,3 +430,4 @@ C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\D
 C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.pdb
 C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.genruntimeconfig.cache
 C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\ref\AutheticationAPI2.0.dll
+C:\Users\estel\OneDrive\Escritorio\AutheticationAPI2.0\AutheticationAPI2.0\obj\Debug\net8.0\AutheticationAPI2.0.sourcelink.json

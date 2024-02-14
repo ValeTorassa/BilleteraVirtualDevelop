@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DI+OSpo7kWiqIvAXIvnt2TKDrnH9N1UaDnKC943asm4vmwVXo3evLztRcJ+spXk4jdfTdonEZ3b8fvy5vKMC6w==",
+  "dgSpecHash": "vU2IsCfd/L303rcF36A86rxpoolBocoH9MkjQju4cqceV2MOH4Mg95Ox/ujDpciO3HqEgLqBawQ7i1hXAaJbPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\estel\\OneDrive\\Escritorio\\VWX\\AutheticationAPI2.0\\AutheticationAPI2.0\\AutheticationAPI2.0.csproj",
+  "projectFilePath": "C:\\Users\\estel\\OneDrive\\Escritorio\\AutheticationAPI2.0\\AutheticationAPI2.0\\AutheticationAPI2.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\estel\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\estel\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

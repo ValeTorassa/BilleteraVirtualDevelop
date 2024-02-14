@@ -1,5 +1,6 @@
 ﻿using AutheticationAPI2._0.Data;
 using AutheticationAPI2._0.Model;
+using AutheticationAPI2._0.Model.Dto;
 using AutheticationAPI2._0.Services.IServices;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,7 +14,7 @@ namespace AutheticationAPI2._0.Services
         {
             _context = context;
         }
-        public async Task CreateCuentaAsync(int userId)
+        public async Task<Result> CreateCuentaAsync(int userId)
         {
             try
             {
@@ -25,23 +26,26 @@ namespace AutheticationAPI2._0.Services
                 };
                 await _context.Cuentas.AddAsync(cuenta);
                 await _context.SaveChangesAsync();
+                return new Result { IsSuccess = true, Message = "Cuenta creada con éxito" };
             }
             catch (Exception e)
             {
-                throw e;
+                return new Result { IsSuccess = false, Message = e.Message };
             }
         }
-        public async Task DeleteCuentaAsync(int userId)
+        public async Task<Result> DeleteCuentaAsync(int userId)
         {
             try
             {
                 var cuenta = await GetCuentaByUserIdAsync(userId);
                 _context.Cuentas.Remove(cuenta);
                 await _context.SaveChangesAsync();
+                return new Result { IsSuccess = true, Message = "Cuenta eliminada con éxito" };
+                
             }
             catch (Exception e)
             {
-                throw e;
+               return new Result { IsSuccess = false, Message = e.Message };
             }
         }
         public async Task<Cuenta> GetCuentaByNumeroCuentaAsync(string numeroCuenta)
@@ -63,20 +67,21 @@ namespace AutheticationAPI2._0.Services
             }
             catch (Exception e)
             {
-                throw e;
+                return null;
             }
         }
 
-        public async Task UpdateCuentaAsync(Cuenta cuenta)
+        public async Task<Result> UpdateCuentaAsync(Cuenta cuenta)
         {
             try
             {
                 _context.Cuentas.Update(cuenta);
                 await _context.SaveChangesAsync();
+                return new Result { IsSuccess = true, Message = "Cuenta actualizada con éxito" };
             }
             catch (Exception e)
             {
-                throw e;
+                return new Result { IsSuccess = false, Message = e.Message };
             }
         }
 
